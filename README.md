@@ -19,5 +19,6 @@ This project analyzes Google Play Store reviews of three Ethiopian fintech mobil
 ├── scripts/                     # All Python scripts for scraping, analysis, DB insert
 ├── Database/                     # Oracle schema and insert scripts
 ├── Visual/                     # visual reports
+├── notebooks                   #analysis
 ├── requirements.txt
 └── README.md                    # You're here
