@@ -1,22 +1,16 @@
-## ✅ 2. `task-2/README.md` – Sentiment & Thematic Analysis
+🕸️ Task 1 – Data Collection and Preprocessing
 
-```markdown
-# 🔍 Task 2 – Sentiment and Thematic Analysis
+This task focused on scraping user reviews from the Google Play Store for three Ethiopian banking apps and cleaning the data to prepare it for sentiment and thematic analysis.
 
-This module focuses on analyzing review sentiment and extracting user experience themes to uncover pain points and product strengths for each banking app.
+## 🎯 Objective
 
-## ✨ Goals
+- Scrape 400+ reviews per app from Google Play Store.
+- Extract: review text, rating, date, bank name, and source.
+- Clean and normalize the data for further analysis.
+- Save to structured CSV format.
 
-- Assign sentiment labels (positive, neutral, negative) to reviews.
-- Extract keywords and group into 3–5 meaningful themes per bank.
-- Support insights for user retention and feature enhancements.
+## 🏦 Target Apps
 
-## 🧪 Tools Used
-
-- VADER (Sentiment Analysis)
-- TF-IDF (Keyword Extraction)
-- spaCy (NLP preprocessing)
-- Pandas, Scikit-learn
-- Matplotlib/Seaborn (visuals)
-
-## 📁 Key Files
+1. Commercial Bank of Ethiopia (CBE)
+2. Dashen Bank
+3. Bank of Abyssinia (BOA)
