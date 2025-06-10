@@ -1,0 +1,19 @@
+BANK_NAME,ENSEMBLE_SENTIMENT,THEME,count
+Bank of Abyssinia,negative,User Interface & Experience,45
+Bank of Abyssinia,negative,Other,27
+Bank of Abyssinia,neutral,Other,87
+Bank of Abyssinia,neutral,User Interface & Experience,19
+Bank of Abyssinia,positive,Other,123
+Bank of Abyssinia,positive,User Interface & Experience,35
+Commercial Bank of Ethiopia,negative,Other,11
+Commercial Bank of Ethiopia,negative,User Interface & Experience,8
+Commercial Bank of Ethiopia,neutral,Other,78
+Commercial Bank of Ethiopia,neutral,User Interface & Experience,8
+Commercial Bank of Ethiopia,positive,Other,154
+Commercial Bank of Ethiopia,positive,User Interface & Experience,83
+Dashen Bank,negative,Other,11
+Dashen Bank,negative,User Interface & Experience,9
+Dashen Bank,neutral,Other,48
+Dashen Bank,neutral,User Interface & Experience,11
+Dashen Bank,positive,Other,111
+Dashen Bank,positive,User Interface & Experience,100
